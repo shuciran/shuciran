@@ -41,7 +41,7 @@ Check out some of my recent work and articles:
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile](https://mx.linkedin.com/in/brodriguezo)
+- [LinkedIn](https://mx.linkedin.com/in/brodriguezo)
 - [Website](https://shuciran.github.io)
   
 ---
