@@ -22,28 +22,27 @@ Welcome to my GitHub profile! I am a cybersecurity professional specializing in 
 
 ---
 
-### 📈 Achievements & Contributions
+### 📈 Achievements & Contributions 
 
-- 🏆 Recognized by [Major Companies/Platforms] for discovering and responsibly disclosing critical security vulnerabilities.
-- 🌍 Speaker at cybersecurity conferences and contributor to security blogs and publications.
-- 📄 Author of [Whitepapers/Guides], including [Sample Document Titles or Areas of Research].
+- 📲 GIAC Mobile Device Security Analyst [GMOB](https://www.credly.com/badges/435642f5-8e80-4a73-b653-e25a9db6c235/public_url)
+- 🕷 OffSec Web Expert [OSWE](https://www.credential.net/1044cdc5-621f-48bb-bbcc-8c416e7bd63d)
+- 🐛 Author of 18 exploits on [Exploit DB](https://www.exploit-db.com/?author=11022)
 
 ---
 
 ### 📝 Latest Articles & Research
 
 Check out some of my recent work and articles:
-- **[Link to Article 1]** - [Brief Description]
-- **[Link to Article 2]** - [Brief Description]
-- **[Link to Article 3]** - [Brief Description]
+- **[DestroyerCMS echoCTF machine](https://shuciran.github.io/posts/DestroyerCMS/)** - In preparation for Hackmex Quals 2025 I'm practicing with echoCTF platform, this time doing destroyerCMS machine.
+- **[Havents echoCTF machine](https://shuciran.github.io/posts/Havents/)** - Second machine solved for Hackmex Quals 2024 prep, Intermediate level just to warm up.
+
 
 ---
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Blog/Website](https://yourwebsite.com)
+- [LinkedIn](https://linkedin.com/in/yourprofile](https://mx.linkedin.com/in/brodriguezo)
+- [Website](https://shuciran.github.io)
   
 ---
 
